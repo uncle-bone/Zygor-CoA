@@ -1,6 +1,6 @@
 # Zygor-CoA — Guided Questing and CoA Reference Tools
 
-> **[⬇ Download v1.0.9](https://github.com/uncle-bone/Zygor-CoA/releases/download/v1.0.9/Zygor-CoA-v1.0.9-Integrated-Guides-Fix.zip)**
+> **[⬇ Download v1.0.9](https://github.com/uncle-bone/Zygor-CoA/releases/download/v1.0.9/Zygor-CoA-v1.0.9-Pale-Reach-Loader-Fix.zip)**
 
 **Current release: v1.0.9 — Pale Reach guide loader fix.**
 
