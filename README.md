@@ -1,8 +1,8 @@
 # Zygor-CoA — Guided Questing and CoA Reference Tools
 
-> **[⬇ Download v1.0.7](https://github.com/uncle-bone/Zygor-CoA/releases/download/v1.0.7/Zygor-CoA-v1.0.7-Integrated-Guides-Fix.zip)**
+> **[⬇ Download v1.0.9](https://github.com/uncle-bone/Zygor-CoA/releases/download/v1.0.9/Zygor-CoA-v1.0.9-Integrated-Guides-Fix.zip)**
 
-**Current release: v1.0.7 — integrated guides fix.**
+**Current release: v1.0.9 — Pale Reach guide loader fix.**
 
 
 A Conquest Reborn adaptation of Zygor Guides Viewer Remastered for the Ascension 3.3.5a client. It combines the guide viewer and navigation interface with CoA quest observations, custom-class integration and a searchable historical reference archive.
@@ -20,7 +20,7 @@ A Conquest Reborn adaptation of Zygor Guides Viewer Remastered for the Ascension
 
 ## Installation
 
-Install **v1.0.7** by extracting the single `ZygorGuidesViewerRM` folder from the release ZIP into `Interface/AddOns`. Do not rename it. Back up the old folder and SavedVariables first. When upgrading from the earlier separate-pack layout, remove the obsolete `ZygorCoAArchive_items`, `_npcs`, `_quests`, `_spells` and `_talents` addon folders after backing them up. The new archive lives inside the viewer folder.
+Install **v1.0.9** by extracting the single `ZygorGuidesViewerRM` folder from the release ZIP into `Interface/AddOns`. Do not rename it. Back up the old folder and SavedVariables first. When upgrading from the earlier separate-pack layout, remove the obsolete `ZygorCoAArchive_items`, `_npcs`, `_quests`, `_spells` and `_talents` addon folders after backing them up. The new archive lives inside the viewer folder.
 
 ## Commands
 
@@ -33,7 +33,7 @@ Install **v1.0.7** by extracting the single `ZygorGuidesViewerRM` folder from th
 
 ## Status and limits
 
-The v1.0.7 package includes integrated guide fixes. Its guide-audit notes still call for in-game validation.
+The v1.0.9 package includes Pale Reach guide loader fix. The included guide audit still requires in-game validation; guide data is not certified.
 
 This remains an **integration test build**. Historical archive data may differ from the current realm; talent layouts are references, not recommended builds. The archive strings load at login because nested folders cannot be independent on-demand addons on 3.3.5a. This increases initial memory and loading time. Large searches span multiple frames and limit displayed matches. Locally stored NPC contact coordinates represent the player's position near the NPC, not exact spawn coordinates. DragonUI need not be disabled.
 
