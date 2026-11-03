@@ -1,6 +1,6 @@
 # Zygor-CoA — Conquest Reborn Quest Guides & Reference Tools
 
-**Current stable release: v1.0.9.** The v1.0.10 research-integration build remains a prerelease pending in-game validation.
+**Current stable release: v1.0.10.** Its research integration is released as stable; the generated guide and quest routing remain experimental pending in-game validation.
 
 > **[Download Here!](https://coa-research.unclebone.workers.dev/download/Zygor-CoA)**
 
