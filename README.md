@@ -1,8 +1,8 @@
 # Zygor-CoA — Conquest Reborn Quest Guides & Reference Tools
 
-**Current integration package: v1.0.10 (research integration; in-game validation pending).**
+**Current stable release: v1.0.9.** The v1.0.10 research-integration build remains a prerelease pending in-game validation.
 
-> **[Download](https://github.com/uncle-bone/Zygor-CoA/releases/latest)**
+> **[Download Here!](https://coa-research.unclebone.workers.dev/download/Zygor-CoA)**
 
 Zygor-CoA adapts **Zygor Guides Viewer Remastered** for **Ascension Conquest of Azeroth / Conquest Reborn**, based on the WoW 3.3.5a client. It retains Zygor's native guide browser, step tracker, waypoint arrow and settings while adding CoA-specific quest research, custom-class support and reference tools.
 
